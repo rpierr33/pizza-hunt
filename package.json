@@ -1,0 +1,37 @@
+<<<<<<< HEAD
+{
+  "name": "18-nosql",
+  "version": "1.0.0",
+  "private": true,
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.9.7"
+  }
+}
+=======
+{
+  "name": "18-nosql",
+  "version": "1.0.0",
+  "private": true,
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^6.0.10"
+  }
+}
+>>>>>>> 4e82fcf62b92f729ce4f9e4b733ae0e61d19d03d
