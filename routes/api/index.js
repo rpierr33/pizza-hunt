@@ -1,11 +1,3 @@
-<<<<<<< HEAD
-const router = require('express').Router();
-const pizzaRoutes = require('./pizza-routes');
-
-router.use('/pizzas', pizzaRoutes);
-
-module.exports = router;
-=======
 const router = require('express').Router();
 const pizzaRoutes = require('./pizza-routes');
 
@@ -16,4 +8,3 @@ router.use('/pizza', pizzaRoutes);
 // })
 
 module.exports = router;
->>>>>>> 4e82fcf62b92f729ce4f9e4b733ae0e61d19d03d
